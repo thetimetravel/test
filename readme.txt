@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is a free software.
+Git is an free software.
 git is 
 git has - tt
 git trachs changes of file.
