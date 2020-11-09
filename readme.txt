@@ -4,5 +4,9 @@ git is
 git has - tt
 git trachs changes of file.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch "feature1"
+>>>>>>> feature1
 
